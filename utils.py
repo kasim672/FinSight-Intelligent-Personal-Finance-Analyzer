@@ -1,8 +1,3 @@
-"""
-Utility functions for FinSight Personal Finance Analyzer
-Handles data loading, preprocessing, and analysis
-"""
-
 import pandas as pd
 import numpy as np
 from typing import Tuple, Dict, List
