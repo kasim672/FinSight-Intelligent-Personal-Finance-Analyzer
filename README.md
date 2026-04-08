@@ -94,6 +94,25 @@ python generate_data.py
 # Output: finance_data.csv (500 rows, 27 columns)
 ```
 
+---
+
+## 📊 FinSight – Dataset Generator
+
+Generates a realistic synthetic dataset mimicking the "Indian Personal Finance and Spending Habits" structure.
+
+### Usage
+
+```bash
+python generate_data.py                  # default 500 rows
+python generate_data.py 5000             # 5,000 rows
+python generate_data.py 20000            # 20,000 rows (full Kaggle size)
+python generate_data.py 10000 --seed 99  # custom random seed
+python generate_data.py 1000 --out my_data.csv   # custom output file name
+python generate_data.py --help           # show all options
+```
+
+---
+
 ### Step 2 — Exploratory Analysis (Jupyter Notebook)
 
 ```bash
