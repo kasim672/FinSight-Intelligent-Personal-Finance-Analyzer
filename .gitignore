@@ -24,14 +24,7 @@ share/python-wheels/
 MANIFEST
 
 # Virtual environments
-venv/
-ENV/
-env/
 .venv
-
-# Jupyter Notebook
-.ipynb_checkpoints
-*.ipynb_checkpoints
 
 # Streamlit
 .streamlit/secrets.toml
@@ -92,3 +85,5 @@ htmlcov/
 dist/
 build/
 *.egg-info/
+# generated csv files
+.csv

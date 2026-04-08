@@ -1,10 +1,3 @@
-"""
-FinSight – Dataset Generator
-Generates a realistic synthetic dataset mimicking the
-"Indian Personal Finance and Spending Habits" structure.
-Run once:  python generate_data.py
-"""
-
 import numpy as np
 import pandas as pd
 
