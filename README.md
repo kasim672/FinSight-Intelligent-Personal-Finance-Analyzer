@@ -9,6 +9,14 @@
 
 ---
 
+## 🎬 Live Demo
+
+![FinSight Dashboard Demo](demo.gif)
+
+*Interactive dashboard showcasing real-time filtering, dynamic insights, and multi-tab analytics across Indian personal finance data.*
+
+---
+
 ## 🗂️ Project Structure
 
 ```

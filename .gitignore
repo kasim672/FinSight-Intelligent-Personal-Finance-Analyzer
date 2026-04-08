@@ -86,4 +86,4 @@ dist/
 build/
 *.egg-info/
 # generated csv files
-.csv
+*.csv
